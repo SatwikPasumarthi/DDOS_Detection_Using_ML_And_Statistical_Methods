@@ -1,0 +1,4 @@
+mininet==2.3.0.dev6
+pandas==2.2.3
+ryu==4.34
+scikit_learn==1.6.1
